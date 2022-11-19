@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/swingDemos/SchoolProject/src/Helper/OptionPane.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/Teacher.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/AddLessonI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/TeacherGUI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/AddTeacherI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/ClassesI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/Student.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/Lesson.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/TeachChangePassI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/TeachToLes.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/LessonTakersI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/StudentGUI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Helper/Item.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/ClassesBilI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/MyInfoI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/Classes.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/TeacherAssignmentI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/LessonTakers.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Helper/DBConnection.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/ClassesElekI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/LoginGUI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/ManagerGUI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/MyLessonsI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/GUIs/AddStudentI.java</file>
+            <file>file:/C:/swingDemos/SchoolProject/src/Model/StudentLes.java</file>
+        </group>
+    </open-files>
+</project-private>
